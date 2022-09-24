@@ -1,5 +1,3 @@
-# events-tailwind-qj8eaEMcs
-
 # events-tailwind-KDazAYNDP
 
 This site was built from the [Corporate Tailwind](https://github.com/builtjs/builtjs-theme-corporate-tailwind) Built.JS theme.
